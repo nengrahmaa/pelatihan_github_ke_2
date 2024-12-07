@@ -11,7 +11,7 @@
 
 [Tata Surya](https://solarsystem.nasa.gov/)
 
-![Galaksi Bima Sakti](https://example.com/images/milky-way-galaxy.jpg)
+![Our Milky Way](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/internal_resources/332/Milky_Way_illustration-1.jpeg?w=1536&format=webp&fit=clip&crop=faces%2Cfocalpoint)
 
 | Planet | Diameter | Jumlah Satelit |
 | ------- | -------- | -------------- |
